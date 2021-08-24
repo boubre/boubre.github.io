@@ -10,9 +10,9 @@ nav: true
 _Lead Teaching Assisstant, Fall 2021_ <br />
 _Teaching Assistant, Fall 2020_
 
-Description
+Description of course.
 
 ## CS 590W, Health Informatics and Data Science
 _Teaching Assistant, Spring 2021_
 
-Description
+Description of course.
