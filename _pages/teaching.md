@@ -2,10 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## CS 240, Reasoning Under Uncertainty
+_Lead Teaching Assisstant, Fall 2021_ <br />
+_Teaching Assistant, Fall 2020_
 
-Organize your courses by years, topics, or universities, however you like!
+Description
+
+## CS 590W, Health Informatics and Data Science
+_Teaching Assistant, Spring 2021_
+
+Description
