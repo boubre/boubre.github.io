@@ -10,9 +10,9 @@ nav: true
 _Lead Teaching Assisstant, Fall 2021_ <br />
 _Teaching Assistant, Fall 2020_
 
-Description of course.
+Description of course. About 300 Students.
 
 ## CS 590W, Health Informatics and Data Science
 _Teaching Assistant, Spring 2021_
 
-Description of course.
+Description of course. 18 Students.
