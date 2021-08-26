@@ -15,4 +15,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Brandon is a PhD candidate who joined the [AHHA lab](http://www.ahhalab.org) in 2017. He received his MS in computer science from UMass Amherst and has been awarded the Barry M. Goldwater Scholarship and an NSF GRFP Honorable Mention. Brandon is interested in the practical applications of machine learning and wearable sensing technology with regard to monitoring and improving human health. His research currently focuses on analyzing human motion in diseased populations (including stroke, parkinsonsism, ataxia, and knee osteoarthritis). His research goal is to develop technologies that can unobtrusively and remotely measure real-world motor performance in order to enable data-driven and patient-centered care.
+I am Ph.D. candidate interested in how computing technologies can be used to understand, monitor, and improve human health.
+My work currently focuses on the development of wearable sensor-based technologies for objective assessment of motor function in several disease areas&mdash;including stroke, ataxia, and knee osteoarthritis.
+In particular, I am working towards developing systems that unobtrusively and remotely assess real-world motor performance, with a goal of enabling data-driven and patient-centered care.
+My research integrates data analytics, machine learning, and biomedical engineering and I enjoy close collaborations with experts in neuroscience, neurology, and biomechanics.
+In my free time, I enjoy playing automation and strategy video games and reading science fiction and fantasy.
+{: .text-justify}
+
+I am currently a member of the [AHHA lab](http://www.ahhalab.org), which I joined in 2017.
+I received my undergraduate education at Louisiana State University, graduating with college honors and degrees in computer science and mathematics.
+I am the recipient of nationally-competitive rewards, including the Barry M. Goldwater Scholarship and an honorable mention from the NSF Graduate Research Fellowship Program.
+I was previously employed by CenturyLink and have completed internships at Biogen and NASA.
+{: .text-justify}
