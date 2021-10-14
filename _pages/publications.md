@@ -11,13 +11,13 @@ nav: true
 
 <div class="publications">
 
-<h1>long publications</h1>
+<h1>journal publications</h1>
 {% for y in page.paper_years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
-<h1>short publications</h1>
+<h1>conference proceedings</h1>
 {% for y in page.conf_years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f conf -q @*[year={{y}}]* %}
