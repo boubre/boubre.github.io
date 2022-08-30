@@ -6,9 +6,9 @@ title: Brandon Oubre # the website title (if blank, full name will be used inste
 first_name: Brandon
 middle_name:
 last_name: Oubre
-email: boubre@cs.umass.edu
+email: boubre@mgh.harvard.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD Candidate
+  Research Fellow
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
