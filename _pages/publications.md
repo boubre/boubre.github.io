@@ -13,7 +13,8 @@ nav: true
 
 <h1>journal publications</h1>
 <h2 class="year">Unpublished</h2>
-{% bibliography -f papers -q @*[year={{}}]* %}
+{% bibliography -f papers -q @*[status=review]* %}
+{% bibliography -f papers -q @*[status=revision]* %}
 
 {% for y in page.paper_years %}
   <h2 class="year">{{y}}</h2>
