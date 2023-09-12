@@ -12,6 +12,9 @@ nav: true
 <div class="publications">
 
 <h1>journal publications</h1>
+<h2 class="year">Unpublished</h2>
+{% bibliography -f papers -q @*[year={{}}]* %}
+
 {% for y in page.paper_years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
