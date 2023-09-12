@@ -14,14 +14,13 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am postdoctoral research fellow interested in how computing technologies can be used to understand, monitor, and improve human health.
-My work focuses on developing technologies for objective assessment of motor function in several disease areas&mdash;including stroke, ataxia, and knee osteoarthritis.
-In particular, I am developing systems to unobtrusively and remotely assess motor performance, monitor disease trajectories, and identify early disease signs.
-My research integrates data analytics, machine learning, and biomedical engineering. I enjoy close collaborations with experts in neuroscience, neurology, and biomechanics.
-In my free time, I enjoy playing automation and strategy video games and reading science fiction and fantasy.
+More specficically, my research interests include mobile health and health informatics, with a focus on quantitative behavioral assessment of neurologic disease.
+My work frequently employs data science and machine learning methodologies to model time-series sensor data representing human movement.
+In the context of digital and behavioral phenotyping and disease assessment, these data have the potential to 1) enable identification of subtle, early disease signs, 2) form the basis of more sensitive measures of disease progression to support clinical trials, and 3) support patient-centric and personalized care. 
+This research is highly interdisciplinary, and I enjoy close collaborations with experts in neurology, neuroscience, and biomechanics.
 {: .text-justify}
 
 I received my Ph.D. in Computer Science from the University of Massachusetts Amherst, and was awarded the 2021&ndash;2022 Outstanding Dissertation Award by the Manning College of Information and Computer Sciences.
 I was a member of the [AHHA lab](http://www.ahhalab.org) during my doctoral studies.
-<!-- I received my undergraduate education at Louisiana State University, graduating with college honors and degrees in computer science and mathematics. -->
-I have also been the recipient of nationally-competitive rewards, including the Barry M. Goldwater Scholarship and an honorable mention from the NSF Graduate Research Fellowship Program.
+I currently work in the [Laboratory for Deep Neurophenotyping](https://www.massgeneral.org/neurology/research/laboratory-for-deep-neurophenotyping-anoopum-gupta). In addition to my research, I am helping to develop [Neurobooth](https://neurobooth.mgh.harvard.edu/), which supports time-synchronized, multi-modal capture of behavioral task performance.
 {: .text-justify}
