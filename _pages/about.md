@@ -21,6 +21,6 @@ This research is highly interdisciplinary, and I enjoy close collaborations with
 {: .text-justify}
 
 I received my Ph.D. in Computer Science from the University of Massachusetts Amherst, and was awarded the 2021&ndash;2022 Outstanding Dissertation Award by the Manning College of Information and Computer Sciences.
-I was a member of the [AHHA lab](http://www.ahhalab.org) during my doctoral studies.
+I was a member of the [AHHA lab](https://groups.cs.umass.edu/ahha/) during my doctoral studies.
 I currently work in the [Laboratory for Deep Neurophenotyping](https://www.massgeneral.org/neurology/research/laboratory-for-deep-neurophenotyping-anoopum-gupta). In addition to my research, I am helping to develop [Neurobooth](https://neurobooth.mgh.harvard.edu/), which supports time-synchronized, multi-modal capture of behavioral task performance.
 {: .text-justify}

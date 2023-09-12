@@ -12,7 +12,7 @@ nav: true
 <div class="publications">
 
 <h1>journal publications</h1>
-<h2 class="year"></h2>
+<h2 class="year">~</h2>
 {% bibliography -f papers -q @*[status=review]* %}
 {% bibliography -f papers -q @*[status=revision]* %}
 

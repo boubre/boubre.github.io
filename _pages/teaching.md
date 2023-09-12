@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 ## COMPSCI 590W / INFO 390W, Health Informatics and Data Science
-_Teaching Assistant, Spring 2022_
+_Teaching Assistant, Spring 2022_ <br />
 _Teaching Assistant, Spring 2021_
 
 Health Informatics and Data Science is a small (about 35 students), joint masters-level and undergraduate course tailored for students with both clinical and computational backgrounds.
