@@ -14,7 +14,8 @@ nav: true
 <h1>journal publications</h1>
 <h2 class="year">&nbsp;</h2>
 {% bibliography -f papers -q @*[status=review]* %}
-{% bibliography -f papers -q @*[status=revision]* %}
+{% bibliography -f papers -q @*[status=maj-revision]* %}
+{% bibliography -f papers -q @*[status=min-revision]* %}
 
 {% for y in page.paper_years %}
   <h2 class="year">{{y}}</h2>
