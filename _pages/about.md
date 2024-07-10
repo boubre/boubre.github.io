@@ -14,9 +14,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am postdoctoral research fellow interested in how computing technologies can be used to understand, monitor, and improve human health.
-More specficically, my research interests include mobile health and health informatics, with a focus on quantitative behavioral assessment of neurologic disease.
+More specifically, my research interests include mobile health and health informatics, with a focus on quantitative behavioral assessment of neurologic disease.
 My work frequently employs data science and machine learning methodologies to model time-series sensor data representing human movement.
-In the context of digital and behavioral phenotyping and disease assessment, these data have the potential to 1) enable identification of subtle, early disease signs, 2) form the basis of more sensitive measures of disease progression to support clinical trials, and 3) support patient-centric and personalized care. 
+In the context of digital and behavioral phenotyping and disease assessment, these data have the potential to 1) enable identification of subtle, early disease signs, 2) form the basis of more sensitive and ecologically valid measures of disease progression to support clinical trials, and 3) support patient-centric and personalized care. 
 This research is highly interdisciplinary, and I enjoy close collaborations with experts in neurology, neuroscience, and biomechanics.
 {: .text-justify}
 
