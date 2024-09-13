@@ -14,4 +14,5 @@ Projects will be tailored to student interests, with an overarching theme of dev
 An interest in human subjects research, data science, and machine learning is expected.
 Human subjects research experience or clinical knowledge is not required, but a willingness to learn new domain knowledge is essential.
 
-To apply for a funded position, please [apply](https://cloud.reach.uab.edu/graduate-application) to the [PhD program](https://www.uab.edu/cas/computerscience/graduate-programs/doctoral-program) at [UAB Computer Science](https://www.uab.edu/cas/computerscience/) and mention your interest in working with me in your statement. You may also send me an [email](mailto:boubre@uab.edu) with your CV and a *concise*, *tailored* statement of your interest.
+To apply for a funded position, please [apply](https://cloud.reach.uab.edu/graduate-application) to the [PhD program](https://www.uab.edu/cas/computerscience/graduate-programs/doctoral-program) at [UAB Computer Science](https://www.uab.edu/cas/computerscience/) and mention your interest in working with me in your statement.
+
