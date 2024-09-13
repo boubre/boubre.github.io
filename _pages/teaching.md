@@ -8,7 +8,7 @@ nav: true
 ## CS 350, Automata and Formal Languages
 _Instructor, Fall 2024_
 
-Automata and Formal Languages is a core undergraduate course (about 40 students) covering finite-state automata and regular expressions, context-free grammars and pushdown automata, Turing machines, NP-completeness, ans the Halting Problem.
+Automata and Formal Languages is a core undergraduate course (about 40 students) covering finite-state automata and regular expressions, context-free grammars and pushdown automata, Turing machines, NP-completeness, and the Halting Problem.
 
 
 ## COMPSCI 590W / INFO 390W (UMass), Health Informatics and Data Science
