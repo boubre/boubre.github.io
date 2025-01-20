@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: 
-paper_years: [2024, 2023, 2022, 2021, 2020, 2019]
+paper_years: [2025, 2024, 2023, 2022, 2021, 2020, 2019]
 conf_years: [2022, 2020]
 abs_years: [2024, 2021, 2020, 2019]
 nav: true
@@ -16,6 +16,7 @@ nav: true
 {% bibliography -f papers -q @*[status=review]* %}
 {% bibliography -f papers -q @*[status=maj-revision]* %}
 {% bibliography -f papers -q @*[status=min-revision]* %}
+{% bibliography -f papers -q @*[status=preprint]* %}
 
 {% for y in page.paper_years %}
   <h2 class="year">{{y}}</h2>

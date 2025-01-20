@@ -5,6 +5,12 @@ title: teaching
 description: 
 nav: true
 ---
+## CS 685/785, Foundations of Data Science
+_Instructor, Spring 2025_
+
+Foundations of Data Science is a graduate course (about 180 students) covering the theory and application of data science. Topics include data fundamentals, visualization, hypothesis testing, high-dimensional space, SVD and PCA, an introduction to machine learning, Markov chains and random walks, and time series analysis.
+
+
 ## CS 350, Automata and Formal Languages
 _Instructor, Fall 2024_
 

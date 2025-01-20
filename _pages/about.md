@@ -25,5 +25,3 @@ I was a member of the [AHHA lab](https://groups.cs.umass.edu/ahha/) during my do
 I completed my postdoctoral training at Harvard Medical School and the Massachusetts General Hospital Department of Neurology.
 I was a member of the [Laboratory for Deep Neurophenotyping](https://www.massgeneral.org/neurology/research/laboratory-for-deep-neurophenotyping-anoopum-gupta) and, in addition to my research, helped to develop [Neurobooth](https://neurobooth.mgh.harvard.edu/)&mdash;a data collection platform that supports time-synchronized, multi-modal capture of behavioral task performance.
 {: .text-justify}
-
-**I am currently recruinting students!** [Click here](/students/) for more information.
