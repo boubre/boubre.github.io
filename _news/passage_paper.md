@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-01-17 12:00:00-0500
+date: 2025-09-18 12:00:00-0500
 inline: true
 ---
 
-A preprint describing my recent work analyzing eye movement abormalities during passage reading is now available on medRxiv! See: <https://doi.org/10.1101/2025.01.13.25320487>
+Our work developing the READ Score, a digital outcome for eye movement abnormalities in ataxias, has been accepted at the _Annals of Neurology_! See: <https://doi.org/10.1002/ana.78039>

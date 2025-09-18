@@ -8,13 +8,18 @@ nav: true
 ## CS 685/785, Foundations of Data Science
 _Instructor, Spring 2025_
 
-Foundations of Data Science is a graduate course (about 180 students) covering the theory and application of data science. Topics include data fundamentals, visualization, hypothesis testing, high-dimensional space, SVD and PCA, an introduction to machine learning, Markov chains and random walks, and time series analysis.
+A large graduate course (about 180 students) covering the theory and application of data science. Topics include data fundamentals, visualization, hypothesis testing, high-dimensional space, SVD and PCA, an introduction to machine learning, Markov chains and random walks, and time series analysis.
+
+## CS 467, Machine Learning Fundamentals
+_Instructor, Fall 2025_
+
+An undergaduate introduction into machine learing, including important algorithms, theoretic underpinnings, assessment of model performance, and experiment methodologies for model development.
 
 
 ## CS 350, Automata and Formal Languages
-_Instructor, Fall 2024_
+_Instructor, Fall 2024&ndash;2025_
 
-Automata and Formal Languages is a core undergraduate course (about 40 students) covering finite-state automata and regular expressions, context-free grammars and pushdown automata, Turing machines, NP-completeness, and the Halting Problem.
+A core undergraduate course covering finite-state automata and regular expressions, context-free grammars and pushdown automata, Turing machines, NP-completeness, and the Halting Problem.
 
 
 ## COMPSCI 590W / INFO 390W (UMass), Health Informatics and Data Science
